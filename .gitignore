@@ -1,0 +1,25 @@
+# Environment variables & API keys (CRITICAL)
+.env
+.env.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Vector database storage
+chroma_db/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit config & runtime data
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
