@@ -116,6 +116,11 @@ Answer: The information is not available in the uploaded documents.
 
 📸 Screenshots & Demo Video
 
+### 1. Upload & Indexing
 ![Upload & Indexing](images/Screenshot_upload.png)
-![Answer ](images/Screenshot_Answered.png)
+
+### 2. Financial Query & Citations
+![Answer](images/Screenshot_Answered.png)
+
+### 3. Trap Question Honest Refusal
 ![Answer For Trap](images/Screenshot_Answered_trap.png)
