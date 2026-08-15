@@ -39,6 +39,7 @@ The system relies strictly on the provided context, implementing an "Honest Refu
 ```bash
 git clone [https://github.com/mithun-afk/Quarterly-Financial-Analysis-RAG.git](https://github.com/mithun-afk/Quarterly-Financial-Analysis-RAG.git)
 cd Quarterly-Financial-Analysis-RAG
+
 2. Set up the virtual environment:
 
 Bash
