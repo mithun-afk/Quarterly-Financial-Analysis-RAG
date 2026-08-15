@@ -16,8 +16,6 @@ The system relies strictly on the provided context, implementing an "Honest Refu
   - `Press R...NR (2).pdf`
   - `Press R...NR (3).pdf`
   - `Press R...NR (4).pdf`
-  - `audited-financial-results-for-the-quarter-ended-march-31-2026.pdf`
-  - `IFRS_Financials_Dec-25.pdf`
 
 ## 🛠️ Technical Architecture
 - **Language:** Python 3.10+
