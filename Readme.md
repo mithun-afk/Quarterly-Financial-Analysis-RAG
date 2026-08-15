@@ -1,7 +1,6 @@
 # 📈 Financial RAG System for Quarterly Reports
 
 **Developer:** Mithun S.
-**Project:** HCLTech × ET Masterclass – AI Skills for the Future (Assignment 1)
 
 ## 📌 Project Overview
 This project is a Retrieval-Augmented Generation (RAG) system built for an investment advisory research desk. It allows financial analysts to upload consecutive quarterly financial results and press releases (PDFs), ask plain-English questions, and receive precise answers backed by exact page and document citations.
