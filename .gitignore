@@ -23,3 +23,9 @@ __pycache__/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+.env
+chroma_db/
+__pycache__/
+*.pyc
+.DS_Store
